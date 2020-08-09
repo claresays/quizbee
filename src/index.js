@@ -41,7 +41,7 @@ class QuizBee extends Component {
     render() {
         return (
             <div className="container">
-                <div className="title">Trivia Quiz</div>
+                <div className="title">Trivia Quiz <span>🧙‍♂</span></div>
                 {this.state.questionBank.length > 0 && 
                 this.state.responses < 5 &&
                 this.state.questionBank.map(({question, answers, 
@@ -56,6 +56,7 @@ class QuizBee extends Component {
                     )}
                     {this.state.responses === 5 ? (
                     <Result score={this.state.score} playAgain={this.playAgain} />) : null}
+                <div className="footer">Designed & Developed by Clare Jung <span>👩🏻‍💻</span></div>
             </div>
         );
     }
