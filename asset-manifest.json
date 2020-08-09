@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quizbee/static/css/main.0f93a89c.chunk.css",
-    "main.js": "/quizbee/static/js/main.9928ec74.chunk.js",
-    "main.js.map": "/quizbee/static/js/main.9928ec74.chunk.js.map",
+    "main.css": "/quizbee/static/css/main.bc7ae181.chunk.css",
+    "main.js": "/quizbee/static/js/main.68f06662.chunk.js",
+    "main.js.map": "/quizbee/static/js/main.68f06662.chunk.js.map",
     "runtime-main.js": "/quizbee/static/js/runtime-main.5307379a.js",
     "runtime-main.js.map": "/quizbee/static/js/runtime-main.5307379a.js.map",
     "static/js/2.9f25e938.chunk.js": "/quizbee/static/js/2.9f25e938.chunk.js",
     "static/js/2.9f25e938.chunk.js.map": "/quizbee/static/js/2.9f25e938.chunk.js.map",
     "index.html": "/quizbee/index.html",
-    "precache-manifest.1fe435d74c506532fdf3464ac09ff9e9.js": "/quizbee/precache-manifest.1fe435d74c506532fdf3464ac09ff9e9.js",
+    "precache-manifest.5ac24ac63489ea6d6afd2bd0c5963b3b.js": "/quizbee/precache-manifest.5ac24ac63489ea6d6afd2bd0c5963b3b.js",
     "service-worker.js": "/quizbee/service-worker.js",
-    "static/css/main.0f93a89c.chunk.css.map": "/quizbee/static/css/main.0f93a89c.chunk.css.map",
+    "static/css/main.bc7ae181.chunk.css.map": "/quizbee/static/css/main.bc7ae181.chunk.css.map",
     "static/js/2.9f25e938.chunk.js.LICENSE.txt": "/quizbee/static/js/2.9f25e938.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5307379a.js",
     "static/js/2.9f25e938.chunk.js",
-    "static/css/main.0f93a89c.chunk.css",
-    "static/js/main.9928ec74.chunk.js"
+    "static/css/main.bc7ae181.chunk.css",
+    "static/js/main.68f06662.chunk.js"
   ]
 }
